@@ -54,7 +54,7 @@ Organización del Proyecto
 Organizar las clases correctamente en paquetes, de la siguiente manera.
 - Modelo: Contendrá la definición de entidades. Separar entre interfaces e
 implementaciones.
-- Excepciones: Contendrá las excepciones propias del sistema
+- excepciones: Contendrá las excepciones propias del sistema
 - UI : Contendrá el menú de usuario
 - Repositorios: Contendrá los repositorios genéricos. Separar entre interfaces e
 implementaciones.
